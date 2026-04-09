@@ -43,6 +43,6 @@ I have submitted a request for data about the demographics of AP classes to the 
 * I might not get this data from the college board
 * The data will probably have rigid categories
 ### Research Questions (That I could answer without College Board data)
-1) How have gender gaps at Whitman changed overtime? Which majors/subjects have the largest gender gaps? Has this always been the case?
-2) How does intersectionality affect gender gaps? Do gender gaps close for white people before they close for everyone else?
-3) How much do gender gaps in classes within a department compare to the gender gaps in the majors?
+* How have gender gaps at Whitman changed overtime? Which majors/subjects have the largest gender gaps? Has this always been the case?
+* How does intersectionality affect gender gaps? Do gender gaps close for white people before they close for everyone else?
+* How much do gender gaps in classes within a department compare to the gender gaps in the majors?
