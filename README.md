@@ -18,4 +18,31 @@
 ### Potential Questions
 - What correlations exist between the cost of light and levels of education?
 - What correlations exist between the cost of light and innovation?
-- What correlations exist between the cost of light and GDP? 
+- What correlations exist between the cost of light and GDP?
+## Week 10 Update:
+This will be a solo project on gender gaps in classes and majors at Whitman, and how they are related to race. If the College Board responds to my data request, then I also hope to discuss how gender gaps at Whitman are related to gender gaps in high school AP classes.
+
+I hope to use the following Data Sources: 
+### Data Source 1: Whitman's Institutional Research
+I have contacted Neal Christopherson to ask for data, but I have not heard back yet. As a result, my Pros/Cons list is speculative.
+#### Pros 
+* I expect that the data will probably be quite complete and require minimal cleaning
+* The data was collected by a group of people I can contact easily. So, I will be able to answer questions about who created the data and why.
+* I will be able to clarify any parts of the dataset with confusing documentation. 
+#### Cons
+* The data will probably have rigid categories
+* Since I know people at Whitman personally, I will need to ensure that the data I ask for would not allow me to guess who the person it describes is.
+* Using data specifically about Whitman students means that I need to narrow the scope of my project to just focus on Whitman. I won't be able to draw broader conclusions
+### Data Source 2: College Board
+I have submitted a request for data about the demographics of AP classes to the college board. I don't know if they will allow me to access this data or not. I will honestly be kind of suprised if they do.  
+#### Pros
+* This would be a massive dataset that would cover the entire nation. It would allow me to draw broader conclusions
+* I expect that this data set would be clean and complete
+#### Cons
+* AP classes are more common in wealthier schools and the students taking AP classes are often of higher socioeconomic status. As a result my data would disproportionately represent wealthier students.
+* I might not get this data from the college board
+* The data will probably have rigid categories
+### Research Questions (That I could answer without College Board data)
+1) How have gender gaps at Whitman changed overtime? Which majors/subjects have the largest gender gaps? Has this always been the case?
+2) How does intersectionality affect gender gaps? Do gender gaps close for white people before they close for everyone else?
+3) How much do gender gaps in classes within a department compare to the gender gaps in the majors?
