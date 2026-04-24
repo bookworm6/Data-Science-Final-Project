@@ -109,6 +109,7 @@ To aquire this data, I emailed Neal, Whitman's Director of Institutional Researc
 * Most of my prelimary work has been centered on understanding the categories and cleaning the data. I have not done any real analysis. I looked at the unique categories in every column of categorical data, and in some cases I reformated to data table to represent the categories more clearly. For example, all categories of majors of a specific person were previously listed together. This would have made dealing with double majors more difficult, so I seperated each category into its own column that contained a boolean. I also re-interpreted Term to be a number where the part before the decimal represents the year and the part after the decimal represents the semester. This is easier to analyze than a string.
 * Aditionally, I merged the data set of classes and the data set of demographics.
 * I need to make decisions about how I will deal with the missing demographic information about people who have not graduated. Should I just make "ungraduated" its own category? Should I change my questions to focus on people who have graduated? Should I exclude classes from before the spring of 2021 since I don't have demographic information on peole who graduated before then?
+
 ### Unanticipated Challenges
 * I think that my largest challenge will be working with the extremely broad categories and dealing with the missing demographic information of people who have not graduated.
 
