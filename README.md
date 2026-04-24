@@ -110,5 +110,13 @@ To aquire this data, I emailed Neal, Whitman's Director of Institutional Researc
 * Aditionally, I merged the data set of classes and the data set of demographics.
 * I need to make decisions about how I will deal with the missing demographic information about people who have not graduated. Should I just make "ungraduated" its own category? Should I change my questions to focus on people who have graduated? Should I exclude classes from before the spring of 2021 since I don't have demographic information on peole who graduated before then?
 ### Unanticipated Challenges
-* I think that my largest challenge will be working with the extremely broad categories and dealing with the missing demographic information of people who have not graduated. 
+* I think that my largest challenge will be working with the extremely broad categories and dealing with the missing demographic information of people who have not graduated.
+
+## Week 12 Update: Preliminary Exploration
+<iframe 
+  src="https://github.com/bookworm6/Data-Science-Final-Project/blob/main/demographics.html" 
+  title="Description of embedded content" 
+  width="600" 
+  height="400">
+</iframe>
   
