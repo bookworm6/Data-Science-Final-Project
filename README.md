@@ -79,7 +79,7 @@ Neal Christopherson anonymized the data and broadened the demographic categories
 #### Composition
 I received two files. In one, student's unique Fake ID numbers are paired to classes they took and the semester they took it. This data represents every class student pair sense the fall of 2000. The second file is demographic data about each student identified by their Fake ID. The demographic data shows all students who graduated in May 2001 or later. I does not show students who graduated earlier than that, students who left the college without graduating, or students who are currently at whitman but did not graduate.
 
-The categories of the demographic data are quite broad in order to protect the privacy of individual students. Gender is represented as M, F, or 0. Race is represented as White or Student of Color, and place of origin is represented as Oregon, Washington, Caligornia, Other State, or International. For each of these categories, only one value is listed. The category of major is represented as Arts and Humanities, Science and Math, Social Science, or Interdiciplinary. Multiple majors can be listed. Aditionally, the demographic data includes graduation year. 
+The categories of the demographic data are quite broad in order to protect the privacy of individual students. Gender is represented as M, F (I don't know how they count non-binary people). Race is represented as White, Student of Color, or International (I assume that International students are counted as International regardless of their Race/Ethnicity) and place of origin is represented as Oregon, Washington, Caligornia, Other State, or International. For each of these categories, only one value is listed. The category of major is represented as Arts and Humanities, Science and Math, Social Science, or Interdiciplinary. Multiple majors can be listed. Aditionally, the demographic data includes graduation year. 
 
 #### Collection Process
 The collection process is not very clear. Some data, such as courses taken by each student, was probably collected authomatically by the computer system. Other data, such as race, gender, and home state may have been collected during the admissions process. The students represented in data were not compensated, but I would guess that the staff collecting and organizing the data were. 
@@ -114,6 +114,13 @@ To aquire this data, I emailed Neal, Whitman's Director of Institutional Researc
 * I think that my largest challenge will be working with the extremely broad categories and dealing with the missing demographic information of people who have not graduated.
 
 ## Week 12 Update: Preliminary Exploration
+#### What I did: 
+This week, I reached out to Neal asking for data on students who have not graduated. He said he will be able to send it to me sometime next week. In the mean time, I explored the general demographics of whitman college overtime. I wanted to make sure that, when I analyze gender gaps in specific subjects, I do so in relation to the demographics of whitman. I want to get a sense the average demographics of courses every semester, so counted the number of course, student pairs for every student in a demographic, and I devided that by the total number of course student pairs. Weighting the demographics by the number of courses each student was taking gave me the percentage of students in every demographic who would be in an "average" course.
+
+#### Analysis:
+* Across all Race/Ethnicity categories except International, Women tend to make up a larger percentage of the population then Men. However, International is split much more evently.
+* There is a large spike in some demographic categories and a coresponding drop in others in the summer of 2008. After examining the courses taught that summer, it looks like Whitman ran two off campus study-abroad programs (a Chinese one and an Anthropology one). They were small and were the only courses being taught in the summer, so the demographics of active students that summer could be effected a lot by a difference of only a few people.
+* Most students at Whitman are white, but the percentage of white students trends down overtime while the percentage of students of color and international students trends slightly up. 
 <iframe 
   src="https://github.com/bookworm6/Data-Science-Final-Project/blob/main/demographics.html" 
   title="Description of embedded content" 
