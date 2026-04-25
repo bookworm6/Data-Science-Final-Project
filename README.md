@@ -123,7 +123,6 @@ This week, I reached out to Neal asking for data on students who have not gradua
 * Most students at Whitman are white, but the percentage of white students trends down overtime while the percentage of students of color and international students trends slightly up. 
 <iframe 
   src="https://github.com/bookworm6/Data-Science-Final-Project/blob/main/demographics.html" 
-  title="Description of embedded content" 
   width="600" 
   height="400">
 </iframe>
