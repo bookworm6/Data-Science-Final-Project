@@ -125,7 +125,7 @@ This week, I reached out to Neal asking for data on students who have not gradua
 * There is a large spike in some demographic categories and a coresponding drop in others in the summer of 2008. After examining the courses taught that summer, it looks like Whitman ran two off campus study-abroad programs (a Chinese one and an Anthropology one). They were small and were the only courses being taught in the summer, so the demographics of active students that summer could be effected a lot by a difference of only a few people.
 * Most students at Whitman are white, but the percentage of white students trends down overtime while the percentage of students of color and international students trends slightly up. 
 <iframe 
-  src="https://github.com/bookworm6/Data-Science-Final-Project/blob/main/demographics.html" 
+  src="https://bookworm6.github.io/Data-Science-Final-Project/demographics" 
   width="600" 
   height="400">
 </iframe>
