@@ -6,7 +6,7 @@ title: Geospatial Data Mini Project
 In this project, I received the timestamped location data of Professor Wirfs-Brock during her first visit too Whitman College. I attempted to determine if her locations followed a routine. To do this, I clustered her location data. Then, I created a map of her location data in which each point was color coded by time of day, and labled with her location's cluster. If her location data was perfectly routine, then every point at similar times (with similar colors) would be in the same location cluster. If her location data did not follow a routine, then points with similar colors would be in different location clusters. This map is below. 
 
 <iframe 
-  src="https://github.com/bookworm6/Data-Science-Final-Project/blob/main/PWB_Locations.html" 
+  src="https://bookworm6.github.io/Data-Science-Final-Project/PWB_Locations" 
   width="600" 
   height="400">
 </iframe>
