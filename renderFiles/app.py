@@ -2,7 +2,7 @@ from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
 import pandas as pd
 
-dataUrl = "https://bookworm6.github.io/Data-Science-Final-Project/demographicsBySubject.csv"
+dataUrl = "https://raw.githubusercontent.com/bookworm6/Data-Science-Final-Project/refs/heads/main/renderFiles/demographicsBySubject.csv"
 demographicsBySubject = pd.read_csv(dataUrl)
 
 averageDifferences = demographicsBySubject.groupby(["Subject","Gender"])["percentDifference"].mean().reset_index()
