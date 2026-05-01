@@ -147,7 +147,7 @@ NOTE: I am using a free version of Render, so it could take up to a minute for t
   <iframe 
   src="https://data-science-final-project.onrender.com/" 
   width="600" 
-  height="1200">
+  height="900">
 </iframe>
 
 #### Communication Strategy
