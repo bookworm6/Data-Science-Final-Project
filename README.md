@@ -130,7 +130,7 @@ This week, I reached out to Neal asking for data on students who have not gradua
   height="400">
 </iframe>
 
-## Week 13 Update
+## Week 14 Update
 #### General Update 
 * Good news! I reached out to Neal again and I got data from the students who did not graduate. This means that I am able to do a much more complete analysis.
 * I originally intented to analyze the intersectionality of race and gender. However, after a lot of thought, I have decided that I do not have the data that I would need to thoughtfully analyze race. In order to prevent students from being identifiable in the data, Neal categorized race as "White," "Student of Color," or "International." The categories of "Student of Color" and "International" are both too broad (and potentially overlapping) to analyze effectivly. So, I am not going to analyze race.
