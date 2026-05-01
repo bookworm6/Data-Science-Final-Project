@@ -129,4 +129,29 @@ This week, I reached out to Neal asking for data on students who have not gradua
   width="600" 
   height="400">
 </iframe>
+
+## Week 13 Update
+#### General Update 
+* Good news! I reached out to Neal again and I got data from the students who did not graduate. This means that I am able to do a much more complete analysis.
+* I originally intented to analyze the intersectionality of race and gender. However, after a lot of thought, I have decided that I do not have the data that I would need to thoughtfully analyze race. In order to prevent students from being identifiable in the data, Neal categorized race as "White," "Student of Color," or "International." The categories of "Student of Color" and "International" are both too broad (and potentially overlapping) to analyze effectivly. So, I am not going to analyze race.
+* I can't analyze gender either because my data gives information about biological sex. So, I am reframing my project to be about the gaps in the representation of biological sex across subjects
+* I have analyzed Whitman's general demographic trends, determined which majors have the largest gaps in representation of the sexes, and created a tool to visualize the change in gaps overtime.
+* I have reached out to the CCEC asking for data on median salaries for each major after graduation, which I want to encorporate into my analysis of gaps
+* I still need to add narrative to my colab notebook and create a website walking my audience through my project. If I am able to get salary data, I need to encorporate that as well.
+#### New Technique
+I used DataCamp and Gemini to learn how to use Dash to create interactive graphs. This allowed me to place points on a line based on how over or under represented a sex is on average within a subject. Each point represents a combination of a sex and a subject. When the user clicks on the point, it creates a new graph of the gap in the representation of sexes in that subject overtime.
+
+When I tried to add this visualization to my notebook, I learned that there is no function to turn it into html code. This is because generating the new graph involves new calls to plotly, which can't be done in HTML. Instead, Gemmini told me that I needed to host my Dashboard on Render. From there, I could embed the UI in a GitHub page. I followed Gemmini's directions to do that. The graph is below. 
+
+NOTE: I am using a free version of Render, so it could take up to a minute for this visualization to load
+  <iframe 
+  src="https://data-science-final-project.onrender.com/" 
+  width="600" 
+  height="400">
+</iframe>
+
+#### Communication Strategy
+I intend to start narrow by introducing the demographics of whitman college and my metric of percentDifference for measuring representation gaps in relation to those demographics. I will then point out a couple of representation gaps that I find particularly interesting (such as ECON's, which is getting worse). Then, I will open it up and allow the audience to use the tool above to explore the data further. I will organize my narrative in a webpage. 
+
+
   
