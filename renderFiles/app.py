@@ -5,7 +5,7 @@ import pandas as pd
 dataUrl = "https://bookworm6.github.io/Data-Science-Final-Project/demographicsBySubject.csv"
 demographicsBySubject = pd.read_csv(dataUrl)
 
-averageDifferences = demographicsBySubject.groupby(["Subject","Gender"])["percentDifference"].mean().reset_index()
+averageDifferences = demographicsBySubject[demographicsBySubject["Race/Ethnicity"]=="all"].groupby(["Subject","Gender"])["percentDifference"].mean().reset_index()
 
 
 #adding y values to divide scatter plot into 3 number lines
@@ -36,5 +36,8 @@ def update(clickData):
     return px.line(title = "please click a point")
   subject = clickData["points"][0]["hovertext"]
   subjectDemographics = demographicsBySubject[demographicsBySubject["Subject"]==subject]
-  return px.line(subjectDemographics, x="Term",y="percentDifference",color = "Gender", line_group = "Gender", title = f"Representation of the Sexes in {subject} over time",labels={"percentDifference":"percent under/over represented","Gender":"Sex"})
-
+  graph = px.line(subjectDemographics, x="Term",y="percentDifference",color = "Gender", line_dash="Race/Ethnicity",title = f"Representation of the Sexes in {subject} over time",labels={"percentDifference":"percent under/over represented","Gender":"Sex"})
+  for trace in graph.data: #credit to gemmini for helping me hide traces
+    if "all" not in trace.name:
+      trace.update(visible="legendonly")
+  return graph
