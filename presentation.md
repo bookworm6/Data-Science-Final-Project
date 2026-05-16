@@ -18,6 +18,7 @@ Similarly, the data on "Race/Ethnicity" categorizes students broadly one of the 
 * Student of Color
 * International
 * Unknown
+
 Because these categories are so broad and reductive, I have de emphasized race and ethnicity in my analysis. However, if you are interested, options to show data on race and ethnicity exist in most visualizations.
 
 I beleive strongly is transparency, but I can not publish Whitman's instutional data in a non agregated form. So, I will be explicit about all decisions I make that excludes data or removes detail from the data.  
@@ -87,7 +88,7 @@ At this point, you might be wondering about the Sex Gap in your college major, o
 
 Every point on the top numberlines is the average percent over/under represented of a sex in a subject . The further left you go, the more under represented a sex is. The further right, the more over represented. 
 
-Click on a point to see a graph of the sex gap of that subject over time. Though the gaps in representation of race/ethnicy, sex pairs are toggled off by default, you can toggle them on by clicking in the key. 
+Click on a point to see a graph of the sex gap of that subject over time. Though the gaps in representation of race/ethnicy and sex pairs are toggled off by default, you can toggle them on by clicking in the key. 
 
 <iframe 
   src="https://data-science-final-project.onrender.com/" 
