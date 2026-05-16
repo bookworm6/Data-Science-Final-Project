@@ -2,6 +2,8 @@
 Information about this project can be found [here](https://bookworm6.github.io/Data-Science-Final-Project/about)
 
 # Perrin's Data Science Final Project
+This page documents the process. The finished project can be found [here](https://bookworm6.github.io/Data-Science-Final-Project/presentation)
+
 ## Initial Ideas 
 ### Idea 1: Gender gaps across school subjects at different levels of education overtime. 
 
