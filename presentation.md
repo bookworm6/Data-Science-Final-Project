@@ -39,8 +39,8 @@ This is a graph of the percentage of class seats filled by people of each demogr
 
 <iframe 
   src="https://bookworm6.github.io/Data-Science-Final-Project/demographics" 
-  width="600" 
-  height="400">
+  width="1000" 
+  height="600">
 </iframe>
 Excluded Data: Students of unknown Race/Ethnicity or Sex were excluded because those categories are not very interpetable and clutter an already crowded graph. This graph also excludes data from the summer of 2008 because only a few students took classes, which allowed randomness to cause outliers.
 
@@ -65,8 +65,8 @@ Every subjects's sex gap has changed differently overtime. Some subjects are fai
 ##### Computer Science
 <iframe 
   src="https://bookworm6.github.io/Data-Science-Final-Project/CS_Over_Time" 
-  width="600" 
-  height="400">
+  width="1000" 
+  height="600">
 </iframe>
 
 Female students have been about 30% under represented in CS at Whitman since the department was founded in 2015. This gap was fairly constant through 2021, but then it started to narrow very slowly in the spring of 2022. This is interesting because it is not a sudden change, it is gradual. 
@@ -76,8 +76,8 @@ Chat GPT launched in the fall of 2022, which was the beginning of a [20% decreas
 ##### English
 <iframe 
   src="https://bookworm6.github.io/Data-Science-Final-Project/ENGL_Over_Time" 
-  width="600" 
-  height="400">
+  width="1000" 
+  height="600">
 </iframe>
 
 Female and male students were fairly evenly represented in English classes until 2014. In 2014, there started to be a clear gap in which female students were over represented and male students were underrepresented. This is interesting because a sudden change probably has a very specific cause, but I have not been able to speculate what that cause was.
@@ -91,8 +91,8 @@ Click on a point to see a graph of the sex gap of that subject over time. Though
 
 <iframe 
   src="https://data-science-final-project.onrender.com/" 
-  width="600" 
-  height="900">
+  width="1000" 
+  height="1500">
 </iframe>
 Excluded Data: If, in any term, fewer than 10 people took classes in a subject, luck had a disproportionate influence on the representation of a sex in the subject that term. Therefore, the subject is excluded for that term only. It is not included in the average percent over/under represented or in the graph of the sex gap of a subject overtime
 
@@ -103,13 +103,13 @@ So what? Some sexes are over represented in some majors and under represented in
 Let's look at the money
 <iframe 
   src="https://bookworm6.github.io/Data-Science-Final-Project/SalaryGraphFemale" 
-  width="600" 
-  height="400">
+  width="1000" 
+  height="600">
 </iframe>
 <iframe 
   src="https://bookworm6.github.io/Data-Science-Final-Project/SalaryGraphMale" 
-  width="600" 
-  height="400">
+  width="1000" 
+  height="600">
 </iframe>
 Excluded Data: Students of unknown sex were excluded because there were no meaningful patterns and no way to make sense of unknown sex. Aditionally, there was not salary data about all majors. Subjects whose major did not have salary data were excluded. 
 
