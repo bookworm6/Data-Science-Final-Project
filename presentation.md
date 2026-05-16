@@ -38,7 +38,7 @@ Before analyzing the sex gaps in subjects overtime, we must understand Whitman's
 This is a graph of the percentage of class seats filled by people of each demographic in every term. I chose to base these demographics off of class seats instead of enrolled students because some students take more classes than others and I wanted the demographic analysis to reflect the demographic make up of an average class. 
 
 <iframe 
-  src="https://bookworm6.github.io/Data-Science-Final-Project/demographics" 
+  src="https://bookworm6.github.io/Data-Science-Final-Project/demographicsImproved" 
   width="1000" 
   height="600">
 </iframe>
